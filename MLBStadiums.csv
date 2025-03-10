@@ -1,0 +1,126 @@
+﻿ID,Team Name,Stadium Name,Stadium Location,Capacity,Opening Year
+1,Arizona Diamondbacks,Chase Field,"Phoenix, Arizona",48405,1998
+2,Atlanta Braves,Truist Park,"Cumberland, Georgia",41084,2017
+3,Baltimore Orioles,Oriole Park at Camden Yards,"Baltimore, Maryland",44970,1992
+4,Boston Red Sox,Fenway Park,"Boston, Massachusetts",37755,1912
+5,Chicago Cubs,Wrigley Field,"Chicago, Illinois",41649,1914
+6,Chicago White Sox,Guaranteed Rate Field,"Chicago, Illinois",40615,1991
+7,Cincinnati Reds,Great American Ball Park,"Cincinnati, Ohio",43500,2003
+8,Cleveland Guardians,Progressive Field,"Cleveland, Ohio",34830,1994
+9,Colorado Rockies,Coors Field,"Denver, Colorado",46897,1995
+10,Detroit Tigers,Comerica Park,"Detroit, Michigan",41083,2000
+11,Houston Astros,Minute Maid Park,"Houston, Texas",41168,2000
+12,Kansas City Royals,Kauffman Stadium,"Kansas City, Missouri",37903,1973
+13,Los Angeles Angels,Angel Stadium,"Anaheim, California",45517,1966
+14,Los Angeles Dodgers,Dodger Stadium,"Los Angeles, California",56000,1962
+15,Miami Marlins,LoanDepot Park,"Miami, Florida",36742,2012
+16,Milwaukee Brewers,American Family Field,"Milwaukee, Wisconsin",41900,2021
+17,Minnesota Twins,Target Field,"Minneapolis, Minnesota",38544,2010
+18,New York Mets,Citi Field,"Queens, New York City, New York",41922,2009
+19,New York Yankees,Yankee Stadium,"Bronx, New York City, New York",46537,2009
+20,Oakland Athletics,Oakland-Alameda County Coliseum,"Oakland, California",46847,1966
+21,Philadelphia Phillies,Citizens Bank Park,"Philadelphia, Pennsylvania",42901,2004
+22,Pittsburgh Pirates,PNC Park,"Pittsburgh, Pennsylvania",38747,2001
+23,San Diego Padres,Petco Park,"San Diego, California",40209,2004
+24,San Francisco Giants,Oracle Park,"San Francisco, California",41915,2000
+25,Seattle Mariners,T-Mobile Park,"Seattle, Washington",47929,1999
+26,St. Louis Cardinals,Busch Stadium,"St. Louis, Missouri",44383,2006
+27,Tampa Bay Rays,Tropicana Field,"St. Petersburg, Florida",25000,1990
+28,Texas Rangers,Globe Life Field,"Arlington, Texas",40300,2020
+29,Toronto Blue Jays,Rogers Centre,"Toronto, Ontario, Canada",41500,1989
+30,Washington Nationals,Nationals Park,"Washington, D.C.",41339,2008
+31,Angels,Wrigley Field,Los Angeles,20457,1961
+32,Angels,Dodger Stadium,Los Angeles,56000,1962
+33,Angels,Edison International,Anaheim,45050,1966
+34,Colt .45s,Colt Stadium,Houston,32601,1962
+35,Astros,Astrodome,Houston,54816,1965
+36,Astros,Minute Maid Park,Houston,42000,2000
+37,Athletics,Columbia Park,Philadelphia,13600,1901
+38,Athletics,Shibe Park,Philadelphia,33166,1909
+39,Athletics,Municipal Stadium,Kansas City,32561,1955
+40,Athletics,Network Assoc Coliseum,Oakland,45177,1968
+41,Blue Jays,Exhibition Stadium,Toronto,43737,1977
+42,Blue Jays,SkyDome,Toronto,50516,1989
+43,Braves,South End Grounds,Boston,,1894
+44,Braves,Fenway Park,Boston,35000,1914
+45,Braves,Braves Field,Boston,37106,1915
+46,Braves,County Stadium,Milwaukee,43826,1953
+47,Braves,Atlanta Fulton County Stadium,Atlanta,52013,1966
+48,Braves,Turner Field,Atlanta,50062,1997
+49,Pilots,Sicks' Stadium,Seattle,25420,1969
+50,Brewers,County Stadium,Milwaukee,53192,1970
+51,Brewers,Miller Park,Milwaukee,42200,2001
+52,Cardinals,Robison Field,St. Louis,21000,1893
+53,Cardinals,Sportsman's Park (III),St. Louis,30500,1920
+54,Cardinals,Busch Stadium,St. Louis,49676,1966
+55,Cubs,West Side Grounds,Chicago,16000,1894
+56,Cubs,Wrigley Field,Chicago,38765,1916
+57,Devil Rays,Tropicana Field,St. Petersburg,45360,1998
+58,Diamondbacks,Bank One Ballpark,Phoenix,48700,1998
+59,Superbas/Dodgers,Washington Park,Brooklyn,18800,1898
+60,Dodgers,Ebbets Field,Brooklyn,28000,1913
+61,Dodgers,Roosevelt Stadium,Jersey City,24500,1956
+62,Dodgers,Memorial Coliseum,Los Angeles,94600,1958
+63,Dodgers,Dodger Stadium,Los Angeles,56000,1962
+64,Expos,Parc Jarry,Montreal,28456,1969
+65,Expos,Le Stade Olympique,Montreal,43739,1977
+66,Giants,Polo Grounds (IV),New York,16000,1891
+67,Giants,Hilltop Park,New York,15000,1911
+68,Giants,Polo Grounds (V),New York,54500,1911
+69,Giants,Seal Stadium,San Francisco,22900,1958
+70,Giants,3Com Park,San Francisco,58000,1960
+71,Giants,Pacific Bell Park,San Francisco,40800,2000
+72,Blues/Naps,League Park (I),Cleveland,9000,1901
+73,Naps/Indians,League Park (II),Cleveland,22500,1910
+74,Indians,Cleveland Stadium,Cleveland,74483,1932
+75,Indians,Jacobs Field,Cleveland,43345,1994
+76,Mariners,Kingdome,Seattle,59166,1977
+77,Mariners,Safeco Field,Seattle,47116,1999
+78,Marlins,Pro Player Stadium,Miami,47662,1993
+79,Mets,Polo Grounds (V),New York,56000,1962
+80,Mets,Shea Stadium,New York,55775,1964
+81,Brewers,Lloyd Street Grounds,Milwaukee,,1901
+82,Browns,Sportsman's Park (II),St. Louis,18000,1902
+83,Browns,Sportsman's Park (III),St. Louis,34450,1909
+84,Orioles,Memorial Stadium,Baltimore,53371,1954
+85,Orioles,Oriole Park at Camden Yards,Baltimore,48262,1992
+86,Padres,Qualcomm Stadium,San Diego,67544,1969
+87,Phillies,Baker Bowl,Philadelphia,18800,1895
+88,Phillies,Connie Mack Stadium,Philadelphia,33608,1938
+89,Phillies,Veterans Stadium,Philadelphia,62382,1971
+90,Pirates,Exposition Park (III),Pittsburgh,16000,1891
+91,Pirates,Forbes Field,Pittsburgh,35000,1909
+92,Pirates,Three Rivers Stadium,Pittsburgh,47971,1970
+93,Pirates,PNC Park,Pittsburgh,38217,2001
+94,Senators,Griffith Stadium,Washington,27550,1961
+95,Senators,RFK Stadium,Washington,43500,1962
+96,Rangers,Arlington Stadium,Arlington,43521,1972
+97,Rangers,The Ballpark in Arlington,Arlington,49170,1994
+98,Pilgrims/Red Sox,Huntington Ave Baseball Grounds,Boston,11500,1901
+99,Red Sox,Fenway Park,Boston,33925,1912
+100,Reds,League Park (II),Cincinnati,,1894
+101,Reds,Palace of the Fans,Cincinnati,,1902
+102,Reds,Crosley Field,Cincinnati,29603,1912
+103,Reds,Cinergy Field,Cincinnati,40008,1970
+104,Rockies,Mile High Stadium,Denver,76037,1993
+105,Rockies,Coors Field,Denver,50249,1995
+106,Royals,Municipal Stadium,Kansas City,35561,1969
+107,Royals,Kauffman Stadium,Kansas City,40625,1973
+108,Tigers,Bennett Park,Detroit,14000,1901
+109,Tigers,Burns Park,Detroit,,1901
+110,Tigers,Tiger Stadium,Detroit,46945,1912
+111,Tigers,Comerica Park,Detroit,40637,2000
+112,Senators,American League Park (I),Washington,,1901
+113,Senators,American League Park (II),Washington,,1904
+114,Senators,Griffith Stadium,Washington,28669,1911
+115,Twins,Metropolitan Stadium,Minneapolis,45919,1961
+116,Twins,Humphrey Metrodome,Minneapolis,55883,1982
+117,White Stockings/Sox,South Side Park (III),Chicago,15000,1901
+118,White Sox,Comiskey Park (I),Chicago,43951,1910
+119,White Sox,Comiskey Park (II),Chicago,44321,1991
+120,Orioles,Oriole Park (IV),Baltimore,,1901
+121,Highlanders,Hilltop Park,New York,15000,1903
+122,Yankees,Polo Grounds (V),New York,38000,1913
+123,Yankees,Yankee Stadium (I),New York,67000,1923
+124,Yankees,Shea Stadium,New York,55600,1974
+125,Yankees,Yankee Stadium (II),New York,57545,1976
